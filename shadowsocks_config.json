@@ -1,0 +1,15 @@
+{
+
+    "server":"ip or dominate",
+
+    "server_port":443,
+
+    "local_port":1079,
+
+    "password":"password",
+
+    "timeout":600,
+
+    "method":"aes-256-cfb"
+
+}
